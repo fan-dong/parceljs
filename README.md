@@ -23,12 +23,14 @@
 }
 ```
 ## 打包项目
+
 ```
 1.npm start
 2.打开http://localhost:1234
 
 ```
 ##运行项目
+```
 1.克隆项目：git@github.com:fan-dong/parceljs.git
 2.安装依赖：cnpm i 
 3.运行项目：npm start
